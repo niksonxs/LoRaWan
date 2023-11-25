@@ -1,0 +1,6 @@
+{
+    "configuration": "LORAWAN_REGION=6,LORAWAN_CLASS=0,LORAWAN_DEVEUI=0,LORAWAN_NETMODE=0,LORAWAN_ADR=1,LORAWAN_UPLINKMODE=1,LORAWAN_Net_Reserve=1,LORAWAN_AT_SUPPORT=1,LORAWAN_RGB=1,LORAWAN_DebugLevel=2",
+    "board": "CubeCell:CubeCell:CubeCell-Board",
+    "port": "/dev/ttyUSB0",
+    "sketch": "LoRaWan.ino"
+}
